@@ -3,4 +3,4 @@
 function {{_input_:modulename}}() {
 }
 
-module.exports {{_var_:modulename}};
+module.exports = {{_var_:modulename}};
